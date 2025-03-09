@@ -4,7 +4,7 @@
 
 Vapaaehtoisista tehtävistä suoritettuna H3 Hello Web Server m) Hanki Github Education -paketti.
 
-(H3 -rapsassa ei ollut siitä mainintaa, mutta hyödynnetty ainakin H5-Nimekäs tehtävässä a) [linkki raporttiin](https://github.com/arilep/h5-Nimek-s/blob/main/h5-nimek%C3%A4s.md).)
+(H3 -rapsassa ei ollut siitä mainintaa, mutta hyödynnetty ainakin H5-Nimekäs tehtävässä a)) [linkki raporttiin](https://github.com/arilep/h5-Nimek-s/blob/main/h5-nimek%C3%A4s.md)
 
 ## Tehtävä-B
 
